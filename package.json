@@ -1,0 +1,24 @@
+{
+  "name": "ville_server",
+  "version": "1.0.0",
+  "description": "exercice creation api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NassimMahmoudi/ville_server.git"
+  },
+  "author": "NassimMahmoudi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NassimMahmoudi/ville_server/issues"
+  },
+  "homepage": "https://github.com/NassimMahmoudi/ville_server#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "node": "^17.4.0"
+  }
+  
+}
